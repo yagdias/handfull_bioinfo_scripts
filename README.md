@@ -6,6 +6,6 @@ This repository contains scripts that I created to work on tasks in my work. May
 
 ### cdhit_formarter
 
-```shell\
+```shell
 cdhit_formarter.py -in <my_cltr_cdhit_output>
 ```
